@@ -1,0 +1,17 @@
+
+h1{
+  color: #B73E3E;
+
+}
+h3
+{
+  color:#B73E3E;
+  text-decoration-line: underline;
+}
+
+hr{
+  border-style: Bold;
+  border-top-style: inset;
+  border-color: white;
+  width:32%;
+}
