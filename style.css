@@ -9,9 +9,3 @@ h3
   text-decoration-line: underline;
 }
 
-hr{
-  border-style: Bold;
-  border-top-style: inset;
-  border-color: white;
-  width:30rem;
-}
